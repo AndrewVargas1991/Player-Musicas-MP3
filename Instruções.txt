@@ -1,0 +1,10 @@
+Instruções de uso do programa Player MP3
+
+1- Abra o programa "Player MP3.pyw" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Clique em "Buscar músicas";
+
+3- Procure e selecione a pasta onde as músicas estão salvas;
+
+4- Clique no botão Play (imagem de uma seta para a direta).
